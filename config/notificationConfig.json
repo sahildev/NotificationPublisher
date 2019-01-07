@@ -1,0 +1,7 @@
+{
+  "entity": "transaction",
+  "path": "https://s3.amazonaws.com/test-bucket/Batch_20181213/input-request.csv",
+  "key": "/test-bucket/Batch_20181213/input-request.csv",
+  "processToTarget": true,
+  "bucket": "test-bucket"
+}
